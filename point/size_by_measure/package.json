@@ -1,0 +1,8 @@
+{
+    "name": "picassojs-demos",
+    "version": "0.0.0",
+    "private": true,
+    "dependencies": {
+      "picasso.js": "0.34.0"
+    }
+  }
